@@ -20,4 +20,10 @@
 	> staged  ----> marked a modified file in its current version 
 	> committed ---> your local database store in cloude repositroy
 ===========================================================================
- 
+# Where is my Histroy ?
+ - .git dir in folder
+# Basic commends
+ - git add filename
+ - git commite -m "Your message"
+ - check git status
+ -  
