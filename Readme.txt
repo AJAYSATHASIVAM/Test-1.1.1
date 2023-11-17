@@ -26,4 +26,9 @@
  - git add filename
  - git commite -m "Your message"
  - check git status
- -  
+# I tried Deleting My repository
+ - I go my repository
+ - click settings 
+ - scroll down and i see dangerzone settings > find delete repository 
+ - click show some warnings read carefully ? i accept and type username/repository and then enter
+ - git hub ask password > enter > Ok > my repositroy totaly vanished 
